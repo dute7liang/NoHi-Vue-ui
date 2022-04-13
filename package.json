@@ -1,8 +1,8 @@
 {
-  "name": "ruoyi",
+  "name": "nohi",
   "version": "3.8.1",
-  "description": "若依管理系统",
-  "author": "若依",
+  "description": "NoHi管理系统",
+  "author": "duteliang",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/y_project/RuoYi-Vue.git"
+    "url": "https://github.com/dute7liang/NoHi-vue3-ui"
   },
   "dependencies": {
     "@element-plus/icons-vue": "0.2.4",
